@@ -2,7 +2,7 @@ sites
 *.d
 
 # xr add
-.txt
+*.txt
 
 # Compiled Object files
 *.slo
